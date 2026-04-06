@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: wechat-starter-pay-test
+
+wechat:
+  pay:
+    mchId: test_mch_id
+    apiV3Key: test_api_v3_key_for_signing

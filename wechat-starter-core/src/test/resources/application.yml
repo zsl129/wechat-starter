@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: wechat-starter-core-test
+
+wechat:
+  miniapp:
+    appId: wx_test_app_id
+    appSecret: test_app_secret
+    token: test_token
+    aesKey: test_aes_key
+  
+  pay:
+    mchId: test_mch_id
+    apiKey: test_api_key
+    apiV3Key: test_api_v3_key
+  
+  redis:
+    enabled: false
+    host: localhost
+    port: 6379

@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: wechat-starter-auth-test
+
+wechat:
+  miniapp:
+    appId: wx_test_auth_app_id
+    appSecret: test_auth_app_secret
+  
+  pay:
+    mchId: test_mch_id
+  
+  redis:
+    enabled: false
