@@ -2,6 +2,7 @@ package com.zslin.wechat.iot.device;
 
 import com.zslin.wechat.core.exception.WechatException;
 import com.zslin.wechat.iot.device.entity.Device;
+import com.zslin.wechat.iot.device.service.DeviceService;
 import com.zslin.wechat.iot.device.service.impl.DeviceServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

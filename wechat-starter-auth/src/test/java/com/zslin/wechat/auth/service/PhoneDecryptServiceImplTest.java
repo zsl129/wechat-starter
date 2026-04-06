@@ -2,6 +2,7 @@ package com.zslin.wechat.auth.service;
 
 import com.zslin.wechat.auth.dto.request.PhoneDecryptRequest;
 import com.zslin.wechat.auth.dto.response.PhoneDecryptResult;
+import com.zslin.wechat.auth.service.impl.PhoneDecryptServiceImpl;
 import com.zslin.wechat.core.exception.WechatException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

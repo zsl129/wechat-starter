@@ -2,6 +2,7 @@ package com.zslin.wechat.message.service;
 
 import com.zslin.wechat.core.exception.WechatException;
 import com.zslin.wechat.message.dto.request.MessageSendRequest;
+import com.zslin.wechat.message.service.impl.WechatMessageServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

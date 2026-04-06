@@ -3,6 +3,7 @@ package com.zslin.wechat.pay.service;
 import com.zslin.wechat.core.exception.WechatException;
 import com.zslin.wechat.pay.dto.request.ProfitSharingRequest;
 import com.zslin.wechat.pay.dto.request.ProfitSharingReturnRequest;
+import com.zslin.wechat.pay.service.impl.ProfitSharingServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

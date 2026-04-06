@@ -4,6 +4,7 @@ import com.zslin.wechat.core.exception.WechatException;
 import com.zslin.wechat.pay.dto.request.PayRequest;
 import com.zslin.wechat.pay.dto.response.PayResult;
 import com.zslin.wechat.pay.service.WechatPayService;
+import com.zslin.wechat.pay.service.impl.PayServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
