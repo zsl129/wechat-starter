@@ -1,4 +1,4 @@
-package com.zslin.wechat.auth.service;
+package com.zslin.wechat.auth;
 
 import com.zslin.wechat.auth.service.impl.WechatAuthServiceImpl;
 import com.zslin.wechat.core.exception.WechatException;

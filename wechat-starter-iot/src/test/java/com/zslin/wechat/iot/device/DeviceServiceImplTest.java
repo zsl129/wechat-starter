@@ -1,10 +1,9 @@
-package com.zslin.wechat.iot.device.service.impl;
+package com.zslin.wechat.iot.device;
 
 import com.zslin.wechat.iot.device.entity.Device;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import org.mockito.InjectMocks;
 import org.mockito.junit.jupiter.MockitoExtension;
 
 import java.util.ArrayList;
@@ -20,9 +19,6 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 @ExtendWith(MockitoExtension.class)
 class DeviceServiceImplTest {
-
-    @InjectMocks
-    private DeviceServiceImpl deviceService;
 
     private Device testDevice;
 

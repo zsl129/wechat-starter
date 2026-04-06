@@ -1,4 +1,4 @@
-package com.zslin.wechat.auth.service.impl;
+package com.zslin.wechat.auth.service;
 
 import com.zslin.wechat.auth.dto.request.PhoneDecryptRequest;
 import com.zslin.wechat.auth.dto.response.PhoneDecryptResult;

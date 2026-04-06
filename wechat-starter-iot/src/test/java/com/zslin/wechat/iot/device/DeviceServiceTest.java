@@ -1,4 +1,4 @@
-package com.zslin.wechat.iot.device.service;
+package com.zslin.wechat.iot.device;
 
 import com.zslin.wechat.core.exception.WechatException;
 import com.zslin.wechat.iot.device.entity.Device;

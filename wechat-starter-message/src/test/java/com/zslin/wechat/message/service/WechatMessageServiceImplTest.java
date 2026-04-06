@@ -1,4 +1,4 @@
-package com.zslin.wechat.message.service.impl;
+package com.zslin.wechat.message.service;
 
 import com.zslin.wechat.core.exception.WechatException;
 import com.zslin.wechat.message.dto.request.MessageSendRequest;

@@ -1,4 +1,4 @@
-package com.zslin.wechat.pay.service.impl;
+package com.zslin.wechat.pay.service;
 
 import com.zslin.wechat.core.exception.WechatException;
 import com.zslin.wechat.pay.dto.request.PayRequest;
